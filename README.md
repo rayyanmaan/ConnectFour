@@ -52,8 +52,8 @@ Click the "Open in Colab" badge above to run the notebook directly in your brows
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ConnectFour-AI-Game.git
-   cd ConnectFour-AI-Game
+   git clone https://github.com/rayyanmaan/ConnectFour.git
+   cd ConnectFour
    ```
 
 2. **Install dependencies:**
